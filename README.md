@@ -45,3 +45,6 @@ Install dependencies:
 
 ```bash
 pip install pygame
+```
+## Output
+![Demo](output.gif)
