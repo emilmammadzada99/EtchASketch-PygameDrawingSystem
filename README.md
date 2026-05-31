@@ -8,7 +8,7 @@ It supports both **manual joystick control** and an **automatic image-to-drawing
 ## 🚀 Features
 
 - 🎮 Manual drawing with dual joystick control (X / Y axis)
-- 🤖 Automatic drawing mode from image (`resim.png`)
+- 🤖 Automatic drawing mode from image (`monalisa.png`)
 - 🧠 Pixel-based path generation algorithm
 - ⚡ Smooth rendering at 60 FPS
 - 🖼️ Image-to-sketch conversion system
@@ -20,7 +20,7 @@ It supports both **manual joystick control** and an **automatic image-to-drawing
 
 - **C** → Clear canvas  
 - **Q** → Quit application  
-- **A** → Start auto-draw from `resim.png`  
+- **A** → Start auto-draw from `monalisa.png`  
 - **Mouse** → Joystick control  
 
 ---
